@@ -6,6 +6,7 @@
     <title>My test page</title>
   </head>
   <body>
-    <img src="images/tree.jpg" alt="Tree" />
+    <img src="index.html/images/purpletree.jpg" alt="Purple Tree" />
+    
   </body>
 </html>
